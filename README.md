@@ -8,5 +8,6 @@ Dependencies:
  - gem install httparty
 
 To run:
-  ruby eurovision_words.rb outputfile.txt
-  
+```bash
+bash> ruby eurovision_words.rb outputfile.txt
+```
